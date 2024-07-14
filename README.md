@@ -1,5 +1,5 @@
 # Spotify Dashboard
-Dashboard file [Spotify Dashboard (PowerBI)](https://github.com/Sampreett/Spotify-Dashboard/tree/main/file)
+Dashboard file - [Spotify Dashboard (PowerBI)](https://github.com/Sampreett/Spotify-Dashboard/tree/main/file)
 
 ![Spotify Dashboard](image/Spotify%20Dashboard.png)
 
