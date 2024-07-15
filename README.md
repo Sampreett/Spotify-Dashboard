@@ -3,7 +3,7 @@ Dashboard file - [Spotify Dashboard (PowerBI)](https://github.com/Sampreett/Spot
 ![Spotify Dashboard](image/Spotify%20Dashboard.png)
 
 ## Overview
-This repository contains a Power BI dashboard designed to visualize various metrics of Spotify tracks. The dashboard provides insights into track performance, popularity, and other key statistics.
+This repository contains a Power BI dashboard designed to visualize various metrics of Spotify tracks. After enriching the dataset with track cover image urls using python script and spotify developer credentials, the dashboard provides insights into track performance, popularity, and other key statistics.
 
 ### Key Features
 - **Track Info Section**: Displays details about the selected track including the track name, artist, release date, and streaming statistics across multiple platforms like YouTube, Pandora, SiriusXM, Shazam, and TikTok.
